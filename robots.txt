@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solar-plate-price-pk.onrender.com/sitemap.xml
